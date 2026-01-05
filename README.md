@@ -1,2 +1,3 @@
-# AI-PD-practical-assi-2
-Product development prac 2 
+# AI-PD-practical-assiignments
+Product development practicals
+
